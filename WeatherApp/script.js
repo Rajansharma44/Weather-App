@@ -7,7 +7,7 @@ const searchTab = document.querySelector("[data-searchWeather]");
 const searchForm = document.querySelector("[data-searchForm]");
 const userInfoContainer = document.querySelector(".userInfoContainer");
 const grantAccessContainer = document.querySelector(
-    ".grantLocationContainer"
+    ".grantLocationContainer"   
 );
 const loadingContainer = document.querySelector('.loadingContainer');
 
